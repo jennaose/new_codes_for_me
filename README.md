@@ -1,2 +1,2 @@
-# new_codes_for_me
+# rust_internship
 just something for me 
